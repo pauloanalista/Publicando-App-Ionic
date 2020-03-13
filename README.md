@@ -70,6 +70,7 @@ Execute o seguinte comando
 ### Observações
 O ideal é configurar as variaveis de ambiente, assim você evita de ficar navegando até essas pastas
 
+## Cursos baratos!
 - [Meus cursos](https://olha.la/udemy)
 
 ## Fique ligado, acesse!
