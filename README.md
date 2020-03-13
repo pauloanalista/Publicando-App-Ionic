@@ -1,5 +1,5 @@
 # Publicando-App-Ionic
-Roteiro que realizo para publicar meu apps feitos em Ionic nas lojas
+Roteiro que realizo para publicar meu apps feitos em Ionic nas lojas.
 
 #Publicando App Ionic na Google Play
 
@@ -69,3 +69,12 @@ Execute o seguinte comando
 
 ### Observações
 O ideal é configurar as variaveis de ambiente, assim você evita de ficar navegando até essas pastas
+
+- [Meus cursos](https://olha.la/udemy)
+
+## Fique ligado, acesse!
+- [Blog IonicClub](https://ionicclub.com)
+- [Blog ILoveCode](https://ilovecode.com.br)
+
+## Novidades, cupons de descontos e cursos gratuitos
+https://olha.la/ilovecode-receber-cupons-novidades
