@@ -70,11 +70,14 @@ Execute o seguinte comando
 ### Observações
 O ideal é configurar as variaveis de ambiente, assim você evita de ficar navegando até essas pastas
 
+# VEJA TAMBÉM
+## Grupo de Estudo no Telegram
+- [Participe gratuitamente do grupo de estudo](https://t.me/blogilovecode)
+
 ## Cursos baratos!
 - [Meus cursos](https://olha.la/udemy)
 
 ## Fique ligado, acesse!
-- [Blog IonicClub](https://ionicclub.com)
 - [Blog ILoveCode](https://ilovecode.com.br)
 
 ## Novidades, cupons de descontos e cursos gratuitos
